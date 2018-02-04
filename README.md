@@ -1,4 +1,4 @@
-# HtmlScriptUpload
+# PhpScriptUpload
 
 This code allow you to upload file in your vulnerable html target..(Like a shell, for interacti with it...)
 
